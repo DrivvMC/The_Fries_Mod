@@ -1,4 +1,4 @@
-# The_Fries_Mod
+# The_Fries_Mod v0.1
 The Fries Mod is a Minecraft Java mod. It adds fries, fries and more fries.
 
 Mod Additions:
